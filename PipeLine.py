@@ -59,3 +59,4 @@ class MachineLearning:
       return prediction.tolist()[0]
     else:
       return "We have encountered an Error. Please Try again"
+

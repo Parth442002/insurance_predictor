@@ -1,0 +1,4 @@
+Metric,Linear Regression,Polynomial Regression,Support Vector Machines,Random Forest,AdaBoost
+MSE,-5956,-20682287,-164706815,-17967309,-17967309,
+RMSE,-5956,-4557,-12833,-4238,-4328,
+MAE,-4056,-2746,-8342,-2347,-2347,
