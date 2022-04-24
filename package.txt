@@ -1,2 +1,0 @@
-apt-get python3-tk
-apt-get libtk8.6.so

@@ -1,0 +1,2 @@
+python-tk
+libtk8.6.so
